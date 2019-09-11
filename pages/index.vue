@@ -4,7 +4,6 @@
     
     <hr>
     <router-link to="/price">価格のページ</router-link>
-    <p>価格のページになります</p>
     <hr>
     <div>
       <!-- {{ users[0].id }}, {{ users[0].name }} -->
