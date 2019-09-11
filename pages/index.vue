@@ -7,7 +7,7 @@
     <hr>
     <div>
       <!-- {{ users[0].id }}, {{ users[0].name }} -->
-      
+      <!-- fetch上書きできるかな？ -->
       <ul>
         <li v-for="user in users" :key='user.id'>
           {{ user.id }}, {{ user.name }}
