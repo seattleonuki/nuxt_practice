@@ -15,6 +15,7 @@
       </ul>
       <p>testブランチ</p>
       <p>test2</p>
+      <p>test2ブランチです</p>
     </div>
     <hr>
     <div>
