@@ -18,6 +18,7 @@
     </div>
     <hr>
     <div>
+      <p>shun</p>
       <img src="~/assets/cat.jpg">
     </div>
   </section>
