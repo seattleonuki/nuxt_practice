@@ -3,9 +3,7 @@
   <section class="container">
     
     <hr>
-    <router-link to="/price">価格のページ</router-link>
-    <p>test</p>
-    <p>testブランチです</p>
+    <router-link to="/price">price page</router-link>
     <hr>
     <div>
       <!-- {{ users[0].id }}, {{ users[0].name }} -->
@@ -15,9 +13,6 @@
           {{ user.id }}, {{ user.name }}
         </li>
       </ul>
-      <p>testブランチ</p>
-      <p>test2</p>
-      <p>test2ブランチです</p>
     </div>
     <hr>
     <div>
