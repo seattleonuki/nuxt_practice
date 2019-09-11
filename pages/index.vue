@@ -3,7 +3,7 @@
   <section class="container">
     
     <hr>
-    <router-link to="/price">Price Page</router-link>
+    <router-link to="/price">価格のページ</router-link>
     <hr>
     <div>
       <!-- {{ users[0].id }}, {{ users[0].name }} -->
