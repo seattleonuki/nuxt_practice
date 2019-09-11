@@ -5,6 +5,7 @@
     <hr>
     <router-link to="/price">price page</router-link>
     <p>subscription</p>
+    <p>aaa</p>
     <hr>
     <div>
       <!-- {{ users[0].id }}, {{ users[0].name }} -->
